@@ -20,4 +20,22 @@
 
 }
 
+.bounce{
+  animation: bounce 4s ease-in-out infinite;
+ 
+  height: 60px;
+}
 
+@keyframes bounce{
+  0%, 100%{
+    transform: translateY(0);
+  }
+
+  50%{
+    transform: translateY(-2.4rem);
+  }
+
+  100%{
+    transform: translateY(0);
+  }
+}
