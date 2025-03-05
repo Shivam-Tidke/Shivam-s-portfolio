@@ -1,0 +1,23 @@
+@import "tailwindcss";
+.bady-background{
+  background-color: rgba(1, 20, 2, 0.185);
+  background-size: cover;
+  height: 100vh;
+
+}
+
+.formControl {
+    @apply bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:drop-shadow-sm focus:border-lime-200
+}
+
+.btnSuccess{
+    @apply bg-lime-500 py-1 px-4 text-white font-bold  hover:bg-lime-600 hover:drop-shadow-lg transition duration-150 hover:-translate-y-1 ease-in-out  hover:scale-110
+
+}
+
+.btnError{
+  @apply bg-yellow-500 py-1 px-4 text-white font-bold  hover:bg-yellow-600 hover:drop-shadow-lg transition duration-150 hover:-translate-y-1 ease-in-out  hover:scale-110
+
+}
+
+
