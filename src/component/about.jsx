@@ -18,10 +18,30 @@ export function About() {
                     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  className="float-left p-1" alt="" />
                     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"  className="float-left p-1" alt="" />
                     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  className="float-left p-1" alt="" />
-                    
                     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  className="float-left p-1" alt="" />
+                    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  className="float-left p-1" alt="" />
+                    <img src="https://img.shields.io/badge/mysql-%23507E9C.svg?style=for-the-badge&logo=mysql&logoColor=white"  className="float-left p-1" alt="" />
+                    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"  className="float-left p-1" alt="" />
+                    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"  className="float-left p-1" alt="" />
+                    <img src="https://img.shields.io/badge/material--ui-%23008CFF.svg?style=for-the-badge&logo=material-ui&logoColor=white
+"  className="float-left p-1" alt="" />
+                    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
+"  className="float-left p-1" alt="" />
+                    <img src="https://img.shields.io/badge/bootstrap-%238A42F4.svg?style=for-the-badge&logo=bootstrap&logoColor=white
+"  className="float-left p-1" alt="" />
+                    <img src="https://img.shields.io/badge/sass-%23cf649a.svg?style=for-the-badge&logo=sass&logoColor=white
+e"  className="float-left p-1" alt="" />
+                    <img src="https://img.shields.io/badge/photoshop-%23A8A8A8.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=
+"  className="float-left p-1" alt="" />
+                    <img src="https://img.shields.io/badge/microsoft_excel-%234B8B3B.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white
+"  className="float-left p-1" alt="" />
+                    <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+
+"  className="float-left p-1" alt="" />
+
+                    
                    
-                   
+            
                     </div>
 
                     </div>
