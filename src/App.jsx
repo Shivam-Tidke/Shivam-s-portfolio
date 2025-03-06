@@ -14,10 +14,10 @@ function App() {
       <header className='flex justify-between p-4'>
         <h3 className='text-2xl ml-16'>Portfolio.</h3>
         <div >
-          <Link to='/' className='hover:text-lime-500 '>Home</Link>
-          <Link to="/about" className='mx-10'>About</Link>
-          <Link to="/project">Projects</Link>
-          <Link to="/contact" className='mx-10'>Contact</Link>
+          <Link to='/' className=' line pb-1 '>Home</Link>
+          <Link to="/about" className='mx-10 line pb-1 '>About</Link>
+          <Link to="/project" className="line pb-1 ">Projects</Link>
+          <Link to="/contact" className='mx-10 line pb-1 '>Contact</Link>
         </div>
       </header>
       <section className='mt-'>
