@@ -5,7 +5,7 @@ export function About() {
             <div className=" grid lg:grid-cols-5 sm:grid-cols-2 grid-cols-1 gap-4 bg-black animate-fadein transition-opacity duration-1000 opacity-0 ease-in-out">
                 <div className="col-span-1 lg:col-span-3 mt-5 sm:mt-10 sm:ml-10  md:mt-15 px-4 sm:px-8">
 
-                    <label className=" font-bold text-3xl text-lime-500"> About</label>
+                    <label className=" font-bold text-3xl text-lime-500"> About </label>
                     <p className="mt-5 text-justify">Hi there! 👋 I'm Shivam Tidke, a passionate MERN Stack Developer. I build dynamic web applications using MongoDB, Express.js, React.js, and Node.js.</p>
                     <p className="mt-3 text-justify">I have experience in both front-end and back-end development. I enjoy creating interactive user interfaces with React and building scalable APIs with Node.js and Express. I'm always learning new technologies to improve my skills and deliver value through my work.</p>
                     <p className="mt-3 text-justify"> If you're interested in collaborating or just want to chat about tech, feel free to reach out. Let's build something amazing together!</p>

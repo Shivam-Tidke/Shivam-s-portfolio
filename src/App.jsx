@@ -17,7 +17,7 @@ function App() {
     <div className='text-white font-bold'>
       <BrowserRouter>
         <header className='flex justify-between  pt-2 px-2 item'>
-          <h3 className='text-2xl sm:ml-10 pt-4 '>Portfolio.</h3>
+          <h3 className='text-2xl sm:ml-10 sm:pt-4 pt-0  '>Portfolio.</h3>
 
 
           <div className={`flex flex-col sm:flex-row sm:items-center w-25 sm:w-100 pt-9 sm:p-4 ${isOpen ? 'block' : 'hidden'} sm:block`}>
