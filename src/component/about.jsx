@@ -3,7 +3,7 @@ export function About() {
     return (
         <div>
             <div className=" grid lg:grid-cols-5 sm:grid-cols-2 grid-cols-1 gap-4 bg-black">
-                <div className="col-span-1 lg:col-span-3 mt-5 sm:mt-10 md:mt-15 px-4 sm:px-8">
+                <div className="col-span-1 lg:col-span-3 mt-5 sm:mt-10 sm:ml-10  md:mt-15 px-4 sm:px-8">
 
                     <label className=" font-bold text-3xl text-lime-500"> About</label>
                     <p className="mt-5 text-justify">Hi there! 👋 I'm Shivam Tidke, a passionate MERN Stack Developer. I build dynamic web applications using MongoDB, Express.js, React.js, and Node.js.</p>

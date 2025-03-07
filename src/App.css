@@ -18,9 +18,15 @@
 
 }
 
+
+
 .btnError{
   @apply bg-yellow-500 py-1 px-4 text-white font-bold  hover:bg-yellow-600 hover:drop-shadow-lg transition duration-150 hover:-translate-y-1 ease-in-out  hover:scale-110
 
+}
+
+.iconHover{
+  @apply text-amber-300 font-bold  hover:text-amber-400 transition duration-150 hover:-translate-y-1 ease-in-out  hover:scale-110
 }
 
 .bounce{
