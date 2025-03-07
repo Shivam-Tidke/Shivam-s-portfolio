@@ -4,7 +4,7 @@ import { IoLocateOutline, IoLogoGithub, IoNavigateOutline } from "react-icons/io
 export function Project(){
     return(
         <div>
-            <div className="">
+            <div className="animate-fadein transition-opacity duration-1000 opacity-0 ease-in-out">
                 <h1 className="text-2xl mx-2    sm:mx-11">Projects</h1>
                 <div className="bg-gray-900 sm:m-10 m-5 p-4 raounded">
                     <div className="flex justify-between mb-4">
