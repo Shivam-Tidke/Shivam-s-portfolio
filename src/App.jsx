@@ -14,7 +14,7 @@ function App() {
 
   return (
 
-    <div className='text-white font-bold'>
+    <div className='text-gray-300 font-bold'>
       <BrowserRouter>
         <header className='flex justify-between  pt-2 px-2 item'>
           <h3 className='text-2xl sm:ml-10 sm:pt-4 pt-0  '>Portfolio.</h3>
@@ -24,7 +24,7 @@ function App() {
             <Link to='/' className='line pb-1 sm:w-auto' onClick={() => setIsOpen(false)}>Home</Link>
             <Link to="/about" className='line pb-1 sm:mx-10 sm:w-auto' onClick={() => setIsOpen(false)}>About</Link>
             <Link to="/project" className="line pb-1 sm:w-auto " onClick={() => setIsOpen(false)}>Projects</Link>
-            <Link to="/contact" className="line pb-1 sm:mx-10 sm:w-auto"onClick={() => setIsOpen(false)}>Contact</Link>
+            <Link to="/contact" className="line pb-1 sm:mx-10 sm:w-auto "onClick={() => setIsOpen(false)}>Contact</Link>
           </div>
           <button className="sm:hidden inline-flex" onClick={toggleMenu}>
             {
