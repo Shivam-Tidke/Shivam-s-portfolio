@@ -32,7 +32,7 @@ export function Home() {
                         </a>
                     </div>
                 </div>
-                <div className="col-span-1 sm:mt-0 mt-6">
+                <div className="col-span-1 sm:mt-0 mt-5">
                     <img src={bg} alt="" />
                 </div>
 
