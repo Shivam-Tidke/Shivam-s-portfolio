@@ -6,11 +6,11 @@ export function Home() {
 
     return (
         <div>
-            <div className=" grid grid-cols-1 sm:grid-cols-2 ">
-                <div className="col-span-1 mt-10 sm:mt-25 sm:ml-25 ml-4">
+            <div className=" grid grid-cols-1 sm:grid-cols-2 justify-center flex items-center ">
+                <div className="col-span-1 mt-10 sm:mt-0 sm:ml-25 ml-4 ">
                     <h3 className='sm:text-5xl text-3xl'>Hi👋, I am Shivam Tidke</h3>
 
-                    <div className='mt-4 '>
+                    <div className='mt-4'>
                     <TypeAnimation
                         sequence={[
                             // Same substring at the start will only be typed out once, initially
@@ -32,7 +32,7 @@ export function Home() {
                         </a>
                     </div>
                 </div>
-                <div className="col-span-1 sm:mt-0 mt-5">
+                <div className="col-span-1 sm:mt-0 mt-5 ">
                     <img src={bg} alt="" />
                 </div>
 
