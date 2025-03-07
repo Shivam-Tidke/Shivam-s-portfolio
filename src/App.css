@@ -62,7 +62,7 @@
   left: 0;
   width: 0;
   height: 2px;
-  background-color: lime;
+  background-color: rgb(49, 253, 49);
   transition: all ease-in-out 0.3s;
 }
 
