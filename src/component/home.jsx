@@ -9,23 +9,21 @@ export function Home() {
         <div>
             <div className=" grid grid-cols-1 sm:grid-cols-2 justify-center  items-center  animate-fadein transition-opacity duration-1000 opacity-0 ease-in-out ">
                 <div className="col-span-1 mt-10 sm:mt-0 sm:ml-25 ml-4 ">
-                    <h3 className='sm:text-4xl text-3xl text-gray-300'>Hello👋,</h3>
-                    <h3 className='sm:text-4xl text-3xl  text-gray-400'>My name is Shivam</h3>
-
+                    <h3 className='sm:text-4xl text-3xl'>Hi, I'm Shivam Tidke</h3>
                     <div className='mt-4'>
                         <TypeAnimation
                             sequence={[
                                 // Same substring at the start will only be typed out once, initially
-                                'I am a MERN Stack Devloper',
+                                'MERN Stack Devloper',
                                 1000, // wait 1s before replacing "Mice" with "Hamsters"
-                                'I am a Frontend Devloper',
+                                'Frontend Devloper',
                                 1000,
-                                'I am a Web Devloper',
+                                'Web Devloper',
                                 1000,
                             ]}
                             wrapper="span"
                             speed={50}
-                            className='sm:text-4xl text-3xl  text-lime-500'
+                            className='sm:text-3xl  text-2xl drop-shadow-lg text-lime-500'
                             repeat={Infinity}
                         />
                     </div>
@@ -41,8 +39,6 @@ export function Home() {
                                     <a href="https://github.com/Shivam-Tidke"><IoLogoGithub className="mx-5 text-4xl iconHover"/></a>
                                    
                                 </div>
-
-                   
                 </div>
                 <div className="col-span-1 sm:mt-0 mt-5  ">
                     <img src={bg} alt="" />
