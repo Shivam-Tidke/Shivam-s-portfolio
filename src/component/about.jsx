@@ -37,7 +37,7 @@ export function About() {
                         <div className="relative inline-block">
                             <div className="bg-lime-500 absolute inset-0 rounded-full blur-xs "></div>
                             <img src={lite} className="absolute inset-0 rounded-full blur-sm grayscale-50" />
-                            <img src={lite} className="rounded-full sm:w-80 w-64 sm:h-80 h-64 p-0.5 relative grayscale-75" />
+                            <img src={lite} className="rounded-full sm:w-80 w-64 sm:h-80 h-64 p-0.5 relative grayscale-75 hover:grayscale-25" />
                         </div>
                     </div>
                 
