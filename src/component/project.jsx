@@ -15,7 +15,7 @@ export function Project(){
                     </div>
                     </div >
                     <p>Developed a full-stack video library platform that allows users to browse, watch, and manage videos with role-based access for admins and users. Implemented core features like video management, user authentication, search, and interactive functionalities (likes, comments).</p>
-                    <p className="py-2"><span className="text-lime-500">Tech Stack:</span> MongoDB, Express.js, React.js, Node.js, Redux, Bootstrap, Material UI</p>
+                    <p className="py-2"><span className="text-lime-500">Tech Stack:</span> MongoDB, Express.js, React.js, Node.js, Tailwind CSS</p>
                     
                 </div>
 
