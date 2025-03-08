@@ -1,4 +1,5 @@
-import about from "../assets/about.jpg"
+import lite from "../assets/lite.jpg"
+
 export function About() {
     return (
         <div>
@@ -32,11 +33,11 @@ export function About() {
                     </div>
                 </div>
                 
-                    <div className=" col-span-1 lg:col-span-2 flex justify-center items-center my-40 sm:mt-60 bounce " >
+                    <div className=" col-span-1 lg:col-span-2 flex justify-center items-center  " >
                         <div className="relative inline-block">
                             <div className="bg-lime-500 absolute inset-0 rounded-full blur-xs "></div>
-                            <img src={about} className="absolute inset-0 rounded-full blur-sm" />
-                            <img src={about} className="rounded-full sm:w-80 w-64 sm:h-80 h-64 p-0.5 relative" />
+                            <img src={lite} className="absolute inset-0 rounded-full blur-sm grayscale-50" />
+                            <img src={lite} className="rounded-full sm:w-80 w-64 sm:h-80 h-64 p-0.5 relative grayscale-75" />
                         </div>
                     </div>
                 
