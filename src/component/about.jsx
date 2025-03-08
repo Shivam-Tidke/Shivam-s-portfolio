@@ -33,7 +33,7 @@ export function About() {
                     </div>
                 </div>
                 
-                    <div className=" col-span-1 lg:col-span-2 flex justify-center items-center  " >
+                    <div className=" col-span-1 lg:col-span-2 flex justify-center items-center my-20" >
                         <div className="relative inline-block">
                             <div className="bg-lime-500 absolute inset-0 rounded-full blur-xs "></div>
                             <img src={lite} className="absolute inset-0 rounded-full blur-sm grayscale-50" />
