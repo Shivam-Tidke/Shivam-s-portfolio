@@ -29,6 +29,7 @@ export function About() {
                             <img src="https://img.shields.io/badge/photoshop-%23A8A8A8.svg?style=for-the-badge&logo=adobe-photoshop&logoColor="className="float-left p-1" alt="" />
                             <img src="https://img.shields.io/badge/microsoft_excel-%234B8B3B.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"className="float-left p-1" alt="" />
                             <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"className="float-left p-1" alt="" />
+                            <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" className="float-left p-1" alt="MongoDB Atlas Badge" />
                         </div>
                     </div>
                 </div>

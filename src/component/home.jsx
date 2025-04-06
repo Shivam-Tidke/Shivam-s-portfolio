@@ -35,8 +35,8 @@ export function Home() {
                       
                     </div>
                     <div className="flex justify-items-normal items-center mt-10  ">
-                                    <a href="https://www.linkedin.com/in/shivam-tidke-9a2569269/" ><IoLogoLinkedin className="text-4xl iconHover"/></a>
-                                    <a href="https://github.com/Shivam-Tidke"><IoLogoGithub className="mx-5 text-4xl iconHover"/></a>
+                                    <a href="https://www.linkedin.com/in/shivam-tidke-9a2569269/" target='_blank' ><IoLogoLinkedin className="text-4xl iconHover"/></a>
+                                    <a href="https://github.com/Shivam-Tidke" target='_blank'><IoLogoGithub className="mx-5 text-4xl iconHover"/></a>
                                    
                                 </div>
                 </div>
