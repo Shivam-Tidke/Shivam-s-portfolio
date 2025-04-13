@@ -11,7 +11,7 @@ export function Project(){
                     <p className="text-2xl">Tech Video Library</p>
                     <div className="">
                         <a href="https://github.com/Shivam-Tidke/video-library-client" target='_blank'><IoLogoGithub className="inline-block text-2xl mr-3 iconHover"/></a>
-                        <a href=""><FaExternalLinkAlt  className="inline-block text-2xl iconHover" target='_blank'/></a>
+                        <a href="https://video-library-client.vercel.app" target='_blank'><FaExternalLinkAlt  className="inline-block text-2xl iconHover" target='_blank'/></a>
                     </div>
                     </div >
                     <p>Developed a full-stack video library platform that allows users to browse, watch, and manage videos with role-based access for admins and users. Implemented core features like video management, user authentication, search, and interactive functionalities (likes, comments).</p>
