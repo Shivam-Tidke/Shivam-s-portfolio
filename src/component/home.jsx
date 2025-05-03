@@ -29,7 +29,7 @@ export function Home() {
                     </div>
                     <div>
                         <Link to="/contact">  <button className='btnSuccess mr-8 mt-8 '>Get In Touch</button></Link>
-                        <a href="/Shivamtidke_resume.pdf" target='_blank'>
+                        <a href="/Shivamtidke_resume_p.pdf" target='_blank'>
                             <button className='btnError'>Resume</button>
                         </a>
                       
