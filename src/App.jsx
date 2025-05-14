@@ -17,10 +17,10 @@ function App() {
     <div className='text-gray-300 font-bold'>
       <BrowserRouter>
         <header className='flex justify-between  pt-2 px-2 item'>
-          <h3 className={`text-2xl sm:ml-10 ml-0 sm:pt-4 pt-1 h-10 ${isOpen ? 'hidden' : 'block'}`}>Portfolio.</h3>
+          <h4 className={`text-xl  sm:ml-10 ml-0 sm:pt-4 pt-1 h-10 ${isOpen ? 'hidden' : 'block'}`}> <span className="text-lime-500">Shivam</span> Tidke</h4>
 
 
-          <div className={`flex font-bold sm:text-base text-3xl flex-col pl-5 items-center sm:flex-row sm:items-center w-100 sm:w-100 pt-4 sm:m-0 mt-16 gap-y-15 sm:p-4 ${isOpen ? 'block' : 'hidden'} sm:block`}>
+          <div className={`flex font-bold sm:text-base w-full sm:w-auto text-3xl flex-col pl-5 items-center sm:flex-row   sm:items-center pt-4 sm:m-0 mt-16 gap-y-15 sm:p-4 ${isOpen ? 'block' : 'hidden'} sm:flex`}>
             <Link to='/' className='line pb-1 sm:w-auto ' onClick={() => setIsOpen(false)}>Home</Link>
             <Link to="/about" className='line pb-1 sm:mx-10 sm:w-auto' onClick={() => setIsOpen(false)}>About</Link>
             <Link to="/project" className="line pb-1 sm:w-auto " onClick={() => setIsOpen(false)}>Projects</Link>

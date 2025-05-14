@@ -9,7 +9,7 @@ export function Contact(){
             <p className="py-6 ">For any information regarding my work, kindly contact me through the following.</p>
             <p><span className="text-lime-500"><IoMdPhonePortrait className="inline-block"/> Phone: </span>+91 7030560392</p>
             <p><span className="text-lime-500 " ><IoMailOutline className="inline-block"/> Email: </span>work.shivamtidke@gmail.com</p>
-            <p><span className="text-lime-500 " ><IoLocationOutline  className="inline-block"/> Address: </span>Pune, Maharashtra, India</p>
+            <p><span className="text-lime-500 " ><IoLocationOutline  className="inline-block"/> Address: </span>Pimple Gurav, Pune, Maharashtra, India</p>
             <div className="flex justify-items-normal items-center mt-10  ">
                 <a href="https://www.linkedin.com/in/shivam-tidke-9a2569269/" ><IoLogoLinkedin className="text-4xl iconHover"/></a>
                 <a href="https://github.com/Shivam-Tidke"><IoLogoGithub className="mx-5 text-4xl iconHover"/></a>
