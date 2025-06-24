@@ -14,10 +14,10 @@ function App() {
 
   return (
 
-    <div className='text-gray-300 font-bold'>
+    <div className='text-gray-300 font-semibold'>
       <BrowserRouter>
         <header className='flex justify-between  pt-2 px-2 item'>
-          <h4 className={`text-xl  sm:ml-10 ml-0 sm:pt-4 pt-1 h-10 ${isOpen ? 'hidden' : 'block'}`}> <span className="text-lime-500">Shivam</span> Tidke</h4>
+          <h4 className={`text-xl  sm:ml-10 ml-0 sm:pt-4 pt-1 h-10 font-bold  ${isOpen ? 'hidden' : 'block'}`}> <span className="text-lime-500">Shivam</span> Tidke</h4>
 
 
           <div className={`flex font-bold sm:text-base w-full sm:w-auto text-3xl flex-col pl-5 items-center sm:flex-row   sm:items-center pt-4 sm:m-0 mt-16 gap-y-15 sm:p-4 ${isOpen ? 'block' : 'hidden'} sm:flex`}>

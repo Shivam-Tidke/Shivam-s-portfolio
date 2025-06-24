@@ -3,10 +3,10 @@ import {  IoLogoGithub } from "react-icons/io5";
 
 export function Project(){
     return(
-        <div>
-            <div className="animate-fadein transition-opacity duration-1000 opacity-0 ease-in-out">
-                <h1 className="text-3xl mx-2   text-lime-500  sm:mx-11">Projects</h1>
-                <div className="overflow-auto h-125">
+        <div className="">
+            <div className=" animate-fadein transition-opacity duration-1000 opacity-0 ease-in-out">
+                <h1 className="text-3xl mx-2 my-4  text-lime-500 font-bold  sm:mx-11">Projects</h1>
+                <div className="overflow-auto max-h-[calc(100vh-150px)]">
                 <div className="bg-gray-900 sm:m-10 m-5 p-4 raounded">
                     <div className="flex justify-between mb-4">
                     <p className="text-2xl">Tech Video Library</p>

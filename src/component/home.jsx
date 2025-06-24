@@ -9,8 +9,8 @@ export function Home() {
         <div>
             <div className=" grid grid-cols-1 sm:grid-cols-2 justify-center  items-center  animate-fadein transition-opacity duration-1000 opacity-0 ease-in-out ">
                 <div className="col-span-1 mt-10 sm:mt-0 sm:ml-25 ml-4 ">
-                    <h3 className='sm:text-4xl text-3xl'>Hi, I'm Shivam Tidke</h3>
-                    <div className='mt-4'>
+                    <h3 className='sm:text-4xl font-bold text-3xl'>Hi, I'm Shivam Tidke</h3>
+                    <div className='mt-4 font-bold '>
                         <TypeAnimation
                             sequence={[
                                 // Same substring at the start will only be typed out once, initially
